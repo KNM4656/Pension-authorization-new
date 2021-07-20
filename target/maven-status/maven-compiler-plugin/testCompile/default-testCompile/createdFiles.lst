@@ -1,0 +1,5 @@
+com\cognizant\mfpe\pensionManagementSystem\authorization\service\AdminDetailsServiceTests.class
+com\cognizant\mfpe\pensionManagementSystem\authorization\JunitTestSuite.class
+com\cognizant\mfpe\pensionManagementSystem\authorization\controller\AuthControllerTests.class
+com\cognizant\mfpe\pensionManagementSystem\authorization\service\JwUtilTest.class
+com\cognizant\mfpe\pensionManagementSystem\authorization\TestRunner.class
